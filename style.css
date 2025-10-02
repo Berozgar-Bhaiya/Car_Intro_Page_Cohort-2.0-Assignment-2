@@ -1,11 +1,11 @@
 @font-face {
     font-family: teko;
-    src: url(/fonts/Teko-Bold.woff2);
+    src: url(fonts/Teko-Bold.woff2);
 }
 
 @font-face {
     font-family: monster;
-    src: url(/fonts/Montserrat-SemiBold.ttf);
+    src: url(fonts/Montserrat-SemiBold.ttf);
 }
 
 * {
@@ -74,7 +74,6 @@ body {
 .main-section h1 {
     font-family: teko;
     font-size: 60px;
-    /* color: #2C2C2C; */
     color: black;
 }
 
